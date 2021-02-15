@@ -1,4 +1,4 @@
 # simple-Blockchain
 
-. flask Api
-. simple blockchain
+ flask Api
+ simple blockchain
